@@ -1,1 +1,1 @@
-# 15-day-CoffeeMachine
+# 15-day-CoffeeMachine intermediate level
